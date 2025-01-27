@@ -20,3 +20,13 @@ Collection of configuration materials for Obsidian Zotero Integration Plugin.
 > 2. [CSS Snippets](https://help.obsidian.md/Extending+Obsidian/CSS+snippets)
 > 3. [Obsidian Colors](https://docs.obsidian.md/Reference/CSS+variables/Foundations/Colors) - _use rgb values_
 > 4. [This thread](https://forum.obsidian.md/t/custom-callout-attributes/92473) for conditions for CSS override and using variables.
+
+## Example Output
+
+#### Header of Import
+
+![header]{./images/example_import_header.png}
+
+#### Annotations
+
+![annotations]{./images/zotero_default_colors.png}
