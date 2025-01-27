@@ -25,8 +25,8 @@ Collection of configuration materials for Obsidian Zotero Integration Plugin.
 
 #### Header of Import
 
-![header]{./images/example_import_header.png}
+![header](./images/example_import_header.png)
 
 #### Annotations
 
-![annotations]{./images/zotero_default_colors.png}
+![annotations](./images/zotero_default_colors.png)
