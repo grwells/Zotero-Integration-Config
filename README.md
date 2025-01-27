@@ -7,7 +7,7 @@ Collection of configuration materials for Obsidian Zotero Integration Plugin.
 
   1. Configure Zotero Integration import profile to use the `Research Note.md` template file. Something like: ![example](./images/import_profile_example.png)
 
-2. Place `zotero-integration-config.css` in `\<vault\>/.obsidian/snippets`.
+2. Place `zotero-integration-config.css` in `<vault>/.obsidian/snippets`.
 
 3. In the Obsidian settings menu under Appearance, enable the toggle for the `zotero-integration-config.css` snippet. This will enable color-based highlighting for callouts created when annotations are imported from Zotero.
 
